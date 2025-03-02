@@ -1,693 +1,589 @@
 Parametry Bramy Czerwonej: 
 Hp: 3000
-Atak: 3
+Atak: 100
 
 Parametry Bramy Niebieskiej: 
 Hp: 3000
-Atak: 3
+Atak: 90
 
 Rozmiar planszy:
 x: 20
 y: 20
 
 Ilość jednostek Drużyny Czerwonej: 
-Ilość Rycerzy: 10
-Ilość Łuczników: 10
+Ilość Rycerzy: 20
+Ilość Łuczników: 5
 Ilość Jeźdźców: 10
-Ilość Rycerzy Elitarnych: 10
-Ilość Kuszników: 0
+Ilość Rycerzy Elitarnych: 15
+Ilość Kuszników: 1
 Ilość Armat: 0
 
 Ilość jednostek Drużyny Nibieskiej: 
-Ilość Rycerzy: 10
-Ilość Łuczników: 10
-Ilość Jeźdźców: 10
-Ilość Rycerzy Elitarnych: 10
-Ilość Kuszników: 0
-Ilość Armat: 0
+Ilość Rycerzy: 20
+Ilość Łuczników: 50
+Ilość Jeźdźców: 0
+Ilość Rycerzy Elitarnych: 0
+Ilość Kuszników: 2
+Ilość Armat: 3
 Plansza w zerowej rundzie:
 
 ---------------------------------------------------------------------------------
                                  Brama Niebieska
-                               HP: 3000  Atak: 3
+                               HP: 3000  Atak: 90
 --------------------------------------------------------------------------------
- *** *** *** *** *** *** *** *** *** *** Ł00 *** *** Ł08 *** *** *** *** *** ***
- *** Ł01 *** *** *** Ł06 *** *** *** R05 R06 *** Ł02 R02 *** *** *** *** *** ***
- *** *** *** *** *** *** Ł07 *** *** *** *** *** *** *** *** *** *** *** *** ***
- J00 *** J09 J02 *** *** *** *** *** E09 *** *** *** R07 *** E04 *** *** *** ***
- *** E03 *** J08 *** E06 *** *** *** *** J06 E05 *** Ł05 J01 *** *** *** J07 E07
- *** *** Ł04 *** *** R01 *** *** R08 *** *** *** R00 *** *** *** *** *** Ł03 ***
- *** *** *** *** *** E02 *** *** *** *** *** *** *** *** *** *** J05 J03 *** ***
- *** *** *** *** *** E08 *** *** *** *** *** *** *** *** *** *** *** *** *** ***
- *** *** *** E00 R04 *** *** R09 *** *** *** Ł09 *** *** J04 *** E01 R03 *** ***
+ *** J06 *** J01 *** *** *** *** *** *** R17 *** E13 *** *** *** *** *** *** Ł04
+ *** *** *** *** J04 R00 *** *** *** R18 R13 *** *** *** *** R01 *** *** *** ***
+ *** R08 *** *** *** *** E03 *** *** *** *** *** *** Ł02 *** E02 K00 *** *** ***
+ *** *** *** *** *** *** R19 *** Ł01 *** *** *** *** *** *** *** J07 *** R06 ***
+ *** *** R16 E08 *** *** *** *** *** E05 *** R09 *** *** *** E09 *** *** *** ***
+ Ł00 *** J09 *** R07 E06 J02 *** *** E11 *** *** E04 *** *** *** *** *** *** ***
+ *** *** *** *** *** *** E14 *** *** E00 *** R11 *** *** *** *** *** *** R15 R02
+ *** R05 *** R14 *** R04 *** *** *** *** J00 *** Ł03 E01 *** *** *** *** R10 ***
+ E10 *** R03 *** *** *** J03 *** *** J08 E07 J05 E12 *** *** *** *** R12 *** ***
  *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** ***
  *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** ***
- R00 *** Ł06 *** *** R07 R04 *** *** Ł03 E07 *** R09 Ł00 *** *** *** Ł08 *** ***
- E05 *** *** E06 *** *** R03 E00 *** *** *** Ł05 *** *** *** *** *** *** J00 J08
- *** E04 *** *** *** *** *** *** *** *** *** *** *** J03 *** *** *** R06 *** ***
- *** *** *** *** *** J07 *** *** *** *** *** *** *** *** *** *** E03 *** *** ***
- *** *** *** *** *** *** *** Ł07 *** Ł04 J05 *** *** *** *** *** *** J01 *** ***
- J04 *** *** E01 *** Ł09 *** *** *** *** *** J02 *** *** *** *** E09 *** *** ***
- *** *** *** E08 *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** ***
- J09 *** *** *** J06 *** *** *** *** *** *** *** R02 *** E02 *** R08 *** *** ***
- *** *** *** R01 *** *** *** *** *** *** *** Ł02 Ł01 *** *** R05 *** *** *** ***
+ *** *** *** *** Ł47 *** *** *** *** R08 *** R19 R14 *** Ł12 *** *** Ł07 Ł26 ***
+ *** Ł40 *** R09 *** *** *** *** *** *** *** Ł02 Ł36 R03 *** Ł18 *** Ł01 *** ***
+ Ł46 R11 *** *** R02 Ł03 *** *** A00 *** *** *** *** *** *** *** R00 *** Ł32 ***
+ *** Ł09 Ł49 R15 *** Ł28 Ł31 *** *** *** Ł41 *** *** *** *** Ł11 *** *** Ł13 ***
+ *** *** *** Ł14 Ł44 R18 Ł22 Ł48 Ł30 A01 R16 Ł42 *** *** Ł37 Ł21 *** *** Ł25 ***
+ *** Ł38 Ł24 *** R10 R13 Ł20 R04 *** R01 R12 Ł15 *** R05 *** *** Ł39 R07 *** ***
+ *** *** *** R06 Ł34 A02 *** *** *** *** Ł19 *** *** Ł06 *** *** Ł04 *** Ł29 ***
+ *** Ł16 K01 Ł33 *** *** *** *** *** Ł00 *** *** *** Ł35 *** Ł43 Ł08 *** Ł17 ***
+ R17 Ł27 *** *** Ł23 Ł10 *** Ł05 Ł45 *** *** K00 *** *** *** *** *** *** *** ***
 ---------------------------------------------------------------------------------
                                  Brama Czerwona
-                               HP: 3000  Atak: 3
+                               HP: 3000  Atak: 100
 ---------------------------------------------------------------------------------
 
 Runda: 1
 --------------------
-Walka  Ł05 z  Ł09
-Hp niebieskiego: -20
-Ł09 umiera z kretesem
-----------------------
-Walka  Ł08 z  R03
+Walka  Ł01 z  R12
 Hp niebieskiego: 480
+----------------------
+Walka  Ł02 z  J05
+Hp niebieskiego: 580
+----------------------
+Walka  Ł07 z  R12
+Hp niebieskiego: -20
+R12 umiera z kretesem
+----------------------
+Walka  Ł26 z  R10
+Hp niebieskiego: 480
+----------------------
+Walka  Ł36 z  E12
+Hp niebieskiego: 830
+----------------------
+Walka  Ł03 z  R14
+Hp czerwonego: 480
 ----------------------
 
 Runda: 2
 --------------------
-Walka  Ł06 z  Ł04
+Walka  R08 z  J08
+Hp niebieskiego: 700
+----------------------
+Walka  R14 z  E12
+Hp niebieskiego: 510
+----------------------
+Walka  R19 z  J05
+Hp niebieskiego: 205
+----------------------
+Walka  Ł02 z  J05
+Hp niebieskiego: -290
+J05 umiera z kretesem
+----------------------
+Walka  Ł03 z  R04
+Hp niebieskiego: 480
+----------------------
+Walka  Ł26 z  R10
 Hp niebieskiego: -20
-Ł04 umiera z kretesem
+R10 umiera z kretesem
 ----------------------
-Walka  Ł08 z  R03
-Hp niebieskiego: -20
-R03 umiera z kretesem
+Walka  Ł31 z  J03
+Hp niebieskiego: 580
 ----------------------
-Walka  R09 z  E00
-Hp czerwonego: 950
+Walka  Ł36 z  E12
+Hp niebieskiego: 70
 ----------------------
-Walka  Ł03 z  J00
-Hp czerwonego: 580
+Walka  Ł40 z  R05
+Hp niebieskiego: 480
 ----------------------
-Walka  Ł05 z  Ł00
+Walka  Ł41 z  E07
+Hp niebieskiego: 830
+----------------------
+Walka  Ł46 z  E10
+Hp niebieskiego: 830
+----------------------
+Walka  Ł47 z  R07
+Hp niebieskiego: 480
+----------------------
+Walka  Ł49 z  R03
+Hp niebieskiego: 480
+----------------------
+Walka  Ł03 z  R14
 Hp czerwonego: -20
-Ł00 umiera z kretesem
-----------------------
-Walka  E00 z  E06
-Hp czerwonego: 1030
-----------------------
-Walka  E08 z  R07
-Hp czerwonego: 680
+R14 umiera z kretesem
 ----------------------
 
 Runda: 3
 --------------------
-Walka  R07 z  E08
+Walka  R03 z  E01
 Hp niebieskiego: 950
 ----------------------
-Walka  Ł03 z  E09
+Walka  R08 z  J08
+Hp niebieskiego: 325
+----------------------
+Walka  R09 z  R14
+Hp niebieskiego: 600
+----------------------
+Walka  Ł02 z  E07
+Hp niebieskiego: 390
+----------------------
+Walka  Ł03 z  R04
+Hp niebieskiego: -20
+R04 umiera z kretesem
+----------------------
+Walka  Ł09 z  E10
+Hp niebieskiego: 390
+----------------------
+Walka  Ł14 z  R14
+Hp niebieskiego: 100
+----------------------
+Walka  Ł18 z  E09
 Hp niebieskiego: 830
 ----------------------
-Walka  Ł05 z  E05
-Hp niebieskiego: 830
+Walka  Ł22 z  J03
+Hp niebieskiego: 85
 ----------------------
-Walka  Ł06 z  J09
-Hp niebieskiego: 580
+Walka  Ł24 z  R03
+Hp niebieskiego: -20
+R03 umiera z kretesem
 ----------------------
-Walka  Ł07 z  R09
+Walka  Ł26 z  R15
 Hp niebieskiego: 480
 ----------------------
-Walka  Ł08 z  J03
+Walka  Ł31 z  J03
+Hp niebieskiego: -410
+J03 umiera z kretesem
+----------------------
+Walka  Ł32 z  R15
+Hp niebieskiego: -20
+R15 umiera z kretesem
+----------------------
+Walka  Ł36 z  R11
+Hp niebieskiego: 480
+----------------------
+Walka  Ł40 z  R05
+Hp niebieskiego: -20
+R05 umiera z kretesem
+----------------------
+Walka  Ł41 z  E07
+Hp niebieskiego: -50
+E07 umiera z kretesem
+----------------------
+Walka  Ł46 z  E10
+Hp niebieskiego: -50
+E10 umiera z kretesem
+----------------------
+Walka  Ł47 z  R07
+Hp niebieskiego: -20
+R07 umiera z kretesem
+----------------------
+Walka  Ł49 z  J09
 Hp niebieskiego: 580
 ----------------------
-Walka  J00 z  Ł03
-Hp niebieskiego: 20
-----------------------
-Walka  E00 z  R09
-Hp niebieskiego: 180
-----------------------
-Walka  E06 z  E00
-Hp niebieskiego: 1030
-----------------------
-Walka  E07 z  J06
-Hp niebieskiego: 780
-----------------------
-Walka  R00 z  R09
+Walka  R11 z  R19
 Hp czerwonego: 600
 ----------------------
-Walka  R09 z  E00
-Hp czerwonego: 630
+Walka  R14 z  R09
+Hp czerwonego: 600
 ----------------------
-Walka  Ł03 z  J00
-Hp czerwonego: 85
+Walka  Ł00 z  Ł46
+Hp czerwonego: -20
+Ł46 umiera z kretesem
 ----------------------
-Walka  Ł05 z  J03
-Hp czerwonego: 580
-----------------------
-Walka  Ł07 z  R04
-Hp czerwonego: 480
-----------------------
-Walka  J00 z  R00
-Hp czerwonego: 520
-----------------------
-Walka  J03 z  Ł08
-Hp czerwonego: 20
-----------------------
-Walka  J06 z  E07
-Hp czerwonego: 870
-----------------------
-Walka  E00 z  E06
-Hp czerwonego: 790
-----------------------
-Walka  E01 z  R06
+Walka  E01 z  R03
 Hp czerwonego: 680
-----------------------
-Walka  E07 z  J08
-Hp czerwonego: 780
-----------------------
-Walka  E08 z  R07
-Hp czerwonego: 380
 ----------------------
 
 Runda: 4
 --------------------
-Walka  R00 z  J00
+Walka  R00 z  J07
 Hp niebieskiego: 700
 ----------------------
-Walka  R06 z  E01
-Hp niebieskiego: 950
-----------------------
-Walka  R07 z  E08
+Walka  R03 z  E01
 Hp niebieskiego: 630
 ----------------------
-Walka  R09 z  R00
-Hp niebieskiego: 600
+Walka  R08 z  J08
+Hp niebieskiego: -50
+J08 umiera z kretesem
 ----------------------
-Walka  Ł03 z  E09
+Walka  R09 z  R14
+Hp niebieskiego: -280
+R14 umiera z kretesem
+----------------------
+Walka  R19 z  R11
+Hp niebieskiego: 100
+----------------------
+Walka  Ł03 z  E06
+Hp niebieskiego: 830
+----------------------
+Walka  Ł09 z  Ł00
+Hp niebieskiego: -20
+Ł00 umiera z kretesem
+----------------------
+Walka  Ł11 z  E09
 Hp niebieskiego: 390
 ----------------------
-Walka  Ł05 z  E05
+Walka  Ł18 z  E09
+Hp niebieskiego: -50
+E09 umiera z kretesem
+----------------------
+Walka  Ł22 z  E14
+Hp niebieskiego: 830
+----------------------
+Walka  Ł24 z  J09
+Hp niebieskiego: 85
+----------------------
+Walka  Ł26 z  R06
+Hp niebieskiego: 480
+----------------------
+Walka  Ł28 z  E06
 Hp niebieskiego: 390
 ----------------------
-Walka  Ł06 z  J09
-Hp niebieskiego: 85
+Walka  Ł31 z  E14
+Hp niebieskiego: 390
 ----------------------
-Walka  Ł07 z  R09
-Hp niebieskiego: -320
-R09 umiera z kretesem
+Walka  Ł32 z  R06
+Hp niebieskiego: -20
+R06 umiera z kretesem
 ----------------------
-Walka  Ł08 z  J03
-Hp niebieskiego: 85
+Walka  Ł36 z  R11
+Hp niebieskiego: -400
+R11 umiera z kretesem
 ----------------------
-Walka  J00 z  Ł03
-Hp niebieskiego: -440
-Ł03 umiera z kretesem
+Walka  Ł39 z  J07
+Hp niebieskiego: 205
 ----------------------
-Walka  J03 z  Ł05
-Hp niebieskiego: 20
+Walka  Ł40 z  R16
+Hp niebieskiego: 480
 ----------------------
-Walka  J06 z  R04
-Hp niebieskiego: 520
+Walka  Ł41 z  E11
+Hp niebieskiego: 830
 ----------------------
-Walka  J08 z  E07
-Hp niebieskiego: 870
+Walka  Ł47 z  J04
+Hp niebieskiego: 580
 ----------------------
-Walka  E02 z  J04
-Hp niebieskiego: 780
+Walka  Ł49 z  J09
+Hp niebieskiego: -410
+J09 umiera z kretesem
 ----------------------
-Walka  E06 z  E00
-Hp niebieskiego: 790
+Walka  J04 z  Ł47
+Hp czerwonego: 20
 ----------------------
-Walka  E07 z  J06
-Hp niebieskiego: 485
-----------------------
-Walka  R00 z  R09
-Hp czerwonego: 220
-----------------------
-Walka  R04 z  J06
-Hp czerwonego: 700
-----------------------
-Walka  Ł02 z  R09
-Hp czerwonego: -280
-R09 umiera z kretesem
-----------------------
-Walka  Ł05 z  J03
-Hp czerwonego: 85
-----------------------
-Walka  Ł07 z  R04
-Hp czerwonego: -20
-R04 umiera z kretesem
-----------------------
-Walka  J00 z  R00
-Hp czerwonego: 60
-----------------------
-Walka  J03 z  Ł08
-Hp czerwonego: -440
-Ł08 umiera z kretesem
-----------------------
-Walka  E00 z  E06
-Hp czerwonego: 550
-----------------------
-Walka  E01 z  R06
+Walka  E01 z  R03
 Hp czerwonego: 380
 ----------------------
-Walka  E05 z  Ł05
-Hp czerwonego: 180
-----------------------
-Walka  E07 z  J08
-Hp czerwonego: 485
-----------------------
-Walka  E08 z  R07
-Hp czerwonego: 80
-----------------------
-Walka  E09 z  Ł03
+Walka  E06 z  Ł03
 Hp czerwonego: 180
 ----------------------
 
 Runda: 5
 --------------------
-Walka  R00 z  J00
-Hp niebieskiego: 325
+Walka  R00 z  J07
+Hp niebieskiego: -170
+J07 umiera z kretesem
 ----------------------
-Walka  R03 z  E02
-Hp niebieskiego: 950
-----------------------
-Walka  R06 z  E01
-Hp niebieskiego: 630
-----------------------
-Walka  R07 z  E08
+Walka  R03 z  E01
 Hp niebieskiego: 310
 ----------------------
-Walka  Ł03 z  E09
+Walka  R08 z  E11
+Hp niebieskiego: 510
+----------------------
+Walka  R19 z  R09
+Hp niebieskiego: 600
+----------------------
+Walka  Ł03 z  E06
 Hp niebieskiego: -50
-E09 umiera z kretesem
+E06 umiera z kretesem
 ----------------------
-Walka  Ł05 z  E05
-Hp niebieskiego: -50
-E05 umiera z kretesem
-----------------------
-Walka  Ł06 z  J09
-Hp niebieskiego: -410
-J09 umiera z kretesem
-----------------------
-Walka  Ł09 z  E08
+Walka  Ł06 z  E01
 Hp niebieskiego: -130
-E08 umiera z kretesem
+E01 umiera z kretesem
 ----------------------
-Walka  J03 z  Ł05
-Hp niebieskiego: -440
-Ł05 umiera z kretesem
+Walka  Ł11 z  E02
+Hp niebieskiego: 830
 ----------------------
-Walka  J06 z  R04
-Hp niebieskiego: 60
+Walka  Ł12 z  R01
+Hp niebieskiego: 480
 ----------------------
-Walka  J08 z  E07
-Hp niebieskiego: 470
+Walka  Ł18 z  E02
+Hp niebieskiego: 390
 ----------------------
-Walka  E02 z  J04
-Hp niebieskiego: 485
+Walka  Ł28 z  R19
+Hp niebieskiego: 480
 ----------------------
-Walka  E04 z  E03
-Hp niebieskiego: 1030
+Walka  Ł31 z  E14
+Hp niebieskiego: -50
+E14 umiera z kretesem
 ----------------------
-Walka  E06 z  E00
-Hp niebieskiego: 550
+Walka  Ł36 z  R09
+Hp niebieskiego: 100
 ----------------------
-Walka  E07 z  J06
-Hp niebieskiego: 190
+Walka  Ł40 z  R16
+Hp niebieskiego: -20
+R16 umiera z kretesem
 ----------------------
-Walka  R04 z  J06
-Hp czerwonego: 325
+Walka  Ł41 z  E11
+Hp niebieskiego: 70
 ----------------------
-Walka  Ł01 z  E04
-Hp czerwonego: 830
+Walka  Ł42 z  R09
+Hp niebieskiego: -400
+R09 umiera z kretesem
 ----------------------
-Walka  Ł06 z  R07
-Hp czerwonego: -420
-R07 umiera z kretesem
+Walka  Ł44 z  J04
+Hp niebieskiego: 85
 ----------------------
-Walka  Ł08 z  J03
-Hp czerwonego: -410
-J03 umiera z kretesem
+Walka  Ł47 z  J04
+Hp niebieskiego: -410
+J04 umiera z kretesem
 ----------------------
-Walka  J00 z  R00
-Hp czerwonego: -400
-R00 umiera z kretesem
+Walka  Ł48 z  E00
+Hp niebieskiego: 830
 ----------------------
-Walka  E00 z  E06
-Hp czerwonego: 310
+Walka  A00 z  J00
+Hp niebieskiego: 100
 ----------------------
-Walka  E01 z  R06
-Hp czerwonego: 80
+Walka  A00 z  E11
+Hp niebieskiego: -350
+E11 umiera z kretesem
 ----------------------
-Walka  E02 z  R03
+Walka  Ł01 z  Ł41
+Hp czerwonego: -20
+Ł41 umiera z kretesem
+----------------------
+Walka  Ł02 z  R03
+Hp czerwonego: -120
+R03 umiera z kretesem
+----------------------
+Walka  E02 z  Ł18
+Hp czerwonego: 180
+----------------------
+Walka  E08 z  R02
 Hp czerwonego: 680
-----------------------
-Walka  E03 z  E04
-Hp czerwonego: 590
-----------------------
-Walka  E07 z  J08
-Hp czerwonego: 190
 ----------------------
 
 Runda: 6
 --------------------
-Walka  R03 z  E02
-Hp niebieskiego: 630
+Walka  R02 z  E08
+Hp niebieskiego: 950
 ----------------------
-Walka  R06 z  E01
-Hp niebieskiego: 310
+Walka  Ł00 z  J00
+Hp niebieskiego: -420
+J00 umiera z kretesem
 ----------------------
-Walka  Ł03 z  R05
+Walka  Ł02 z  R13
 Hp niebieskiego: 480
 ----------------------
-Walka  Ł04 z  R08
+Walka  Ł03 z  R19
+Hp niebieskiego: -20
+R19 umiera z kretesem
+----------------------
+Walka  Ł09 z  J06
+Hp niebieskiego: 580
+----------------------
+Walka  Ł11 z  E02
+Hp niebieskiego: -50
+E02 umiera z kretesem
+----------------------
+Walka  Ł12 z  R01
+Hp niebieskiego: -20
+R01 umiera z kretesem
+----------------------
+Walka  Ł30 z  E00
+Hp niebieskiego: 390
+----------------------
+Walka  Ł31 z  J02
+Hp niebieskiego: 580
+----------------------
+Walka  Ł36 z  R13
+Hp niebieskiego: -20
+R13 umiera z kretesem
+----------------------
+Walka  Ł40 z  J06
+Hp niebieskiego: 85
+----------------------
+Walka  Ł44 z  E08
+Hp niebieskiego: 510
+----------------------
+Walka  Ł47 z  R00
 Hp niebieskiego: 480
 ----------------------
-Walka  Ł06 z  R01
-Hp niebieskiego: 480
+Walka  Ł48 z  E00
+Hp niebieskiego: -50
+E00 umiera z kretesem
 ----------------------
-Walka  J01 z  J03
-Hp niebieskiego: -370
-J03 umiera z kretesem
+Walka  Ł01 z  A00
+Hp czerwonego: -20
+A00 umiera z kretesem
 ----------------------
-Walka  J06 z  R04
-Hp niebieskiego: -400
-R04 umiera z kretesem
+Walka  Ł02 z  R05
+Hp czerwonego: 480
 ----------------------
-Walka  J08 z  E07
-Hp niebieskiego: 70
+Walka  E05 z  R08
+Hp czerwonego: 680
 ----------------------
-Walka  E02 z  J04
-Hp niebieskiego: 190
-----------------------
-Walka  E03 z  J05
-Hp niebieskiego: 780
-----------------------
-Walka  E04 z  E03
-Hp niebieskiego: 790
-----------------------
-Walka  E06 z  E00
-Hp niebieskiego: 310
-----------------------
-Walka  E07 z  J06
-Hp niebieskiego: -105
-J06 umiera z kretesem
-----------------------
-Walka  R01 z  Ł06
-Hp czerwonego: 100
-----------------------
-Walka  R05 z  Ł03
-Hp czerwonego: -200
-Ł03 umiera z kretesem
-----------------------
-Walka  R08 z  Ł04
-Hp czerwonego: 100
-----------------------
-Walka  Ł00 z  E07
-Hp czerwonego: 430
-----------------------
-Walka  Ł01 z  E04
-Hp czerwonego: 150
-----------------------
-Walka  Ł06 z  J07
-Hp czerwonego: 580
-----------------------
-Walka  J05 z  E03
-Hp czerwonego: 870
-----------------------
-Walka  E00 z  E06
-Hp czerwonego: 70
-----------------------
-Walka  E01 z  R06
-Hp czerwonego: -220
-R06 umiera z kretesem
-----------------------
-Walka  E02 z  R03
+Walka  E08 z  R02
 Hp czerwonego: 380
 ----------------------
-Walka  E03 z  E04
-Hp czerwonego: -90
-E04 umiera z kretesem
-----------------------
-Walka  E07 z  J08
-Hp czerwonego: -105
-J08 umiera z kretesem
+Walka  K00 z  R00
+Hp czerwonego: 360
 ----------------------
 
 Runda: 7
 --------------------
-Walka  R03 z  E02
-Hp niebieskiego: 310
+Walka  R02 z  E08
+Hp niebieskiego: 190
 ----------------------
-Walka  Ł01 z  R00
-Hp niebieskiego: 100
+Walka  R08 z  E05
+Hp niebieskiego: 950
 ----------------------
-Walka  Ł04 z  R08
+Walka  Ł00 z  Ł01
 Hp niebieskiego: -20
-R08 umiera z kretesem
+Ł01 umiera z kretesem
 ----------------------
-Walka  Ł06 z  R01
+Walka  Ł02 z  R17
+Hp niebieskiego: 480
+----------------------
+Walka  Ł06 z  Ł02
 Hp niebieskiego: -20
-R01 umiera z kretesem
+Ł02 umiera z kretesem
 ----------------------
-Walka  Ł09 z  Ł06
+Walka  Ł09 z  J06
+Hp niebieskiego: -410
+J06 umiera z kretesem
+----------------------
+Walka  Ł28 z  R00
 Hp niebieskiego: -20
-Ł06 umiera z kretesem
+R00 umiera z kretesem
 ----------------------
-Walka  E02 z  J04
-Hp niebieskiego: -105
-J04 umiera z kretesem
+Walka  Ł31 z  J02
+Hp niebieskiego: 85
 ----------------------
-Walka  E03 z  J05
-Hp niebieskiego: 485
+Walka  Ł36 z  R17
+Hp niebieskiego: -20
+R17 umiera z kretesem
 ----------------------
-Walka  E05 z  J00
-Hp niebieskiego: 30
+Walka  Ł38 z  R08
+Hp niebieskiego: 480
 ----------------------
-Walka  E06 z  E00
-Hp niebieskiego: 70
+Walka  Ł39 z  K00
+Hp niebieskiego: 180
 ----------------------
-Walka  R06 z  E07
-Hp czerwonego: 110
+Walka  Ł44 z  E08
+Hp niebieskiego: -250
+E08 umiera z kretesem
 ----------------------
-Walka  Ł00 z  E07
-Hp czerwonego: -330
-E07 umiera z kretesem
+Walka  Ł49 z  J01
+Hp niebieskiego: 580
 ----------------------
-Walka  Ł01 z  J04
-Hp czerwonego: 580
+Walka  R08 z  R11
+Hp czerwonego: 600
 ----------------------
-Walka  Ł02 z  R02
-Hp czerwonego: 480
+Walka  J01 z  R09
+Hp czerwonego: 140
 ----------------------
-Walka  J00 z  E05
-Hp czerwonego: 870
+Walka  J02 z  Ł31
+Hp czerwonego: 20
 ----------------------
-Walka  E00 z  E06
-Hp czerwonego: -170
-E06 umiera z kretesem
-----------------------
-Walka  E01 z  R08
-Hp czerwonego: 680
-----------------------
-Walka  E02 z  R03
-Hp czerwonego: 80
-----------------------
-Walka  E03 z  J04
-Hp czerwonego: 285
+Walka  E05 z  R08
+Hp czerwonego: 380
 ----------------------
 
 Runda: 8
 --------------------
-Walka  R02 z  R00
-Hp niebieskiego: -280
-R00 umiera z kretesem
+Walka  R00 z  K00
+Hp niebieskiego: -195
+K00 umiera z kretesem
 ----------------------
-Walka  R03 z  E02
-Hp niebieskiego: -10
-E02 umiera z kretesem
+Walka  R08 z  E05
+Hp niebieskiego: 630
 ----------------------
-Walka  R08 z  E01
-Hp niebieskiego: -10
-E01 umiera z kretesem
+Walka  R09 z  J01
+Hp niebieskiego: 205
 ----------------------
-Walka  Ł01 z  R07
-Hp niebieskiego: 480
+Walka  R11 z  R08
+Hp niebieskiego: 100
 ----------------------
-Walka  Ł06 z  J02
-Hp niebieskiego: 580
+Walka  Ł05 z  J02
+Hp niebieskiego: -410
+J02 umiera z kretesem
 ----------------------
-Walka  J04 z  E03
+Walka  Ł30 z  E03
+Hp niebieskiego: 830
+----------------------
+Walka  Ł31 z  E03
 Hp niebieskiego: 390
 ----------------------
-Walka  E03 z  J05
-Hp niebieskiego: 190
+Walka  Ł38 z  R08
+Hp niebieskiego: -400
+R08 umiera z kretesem
 ----------------------
-Walka  E05 z  J00
-Hp niebieskiego: -265
-J00 umiera z kretesem
+Walka  Ł44 z  J01
+Hp niebieskiego: -290
+J01 umiera z kretesem
 ----------------------
-Walka  Ł01 z  J04
-Hp czerwonego: -210
-J04 umiera z kretesem
+Walka  A01 z  R18
+Hp niebieskiego: 500
 ----------------------
-Walka  Ł02 z  R02
-Hp czerwonego: -20
-R02 umiera z kretesem
+Walka  A01 z  E05
+Hp niebieskiego: -290
+E05 umiera z kretesem
 ----------------------
-Walka  J02 z  Ł06
-Hp czerwonego: -360
-Ł06 umiera z kretesem
-----------------------
-Walka  J05 z  E03
-Hp czerwonego: 470
-----------------------
-Walka  E04 z  E09
-Hp czerwonego: 1030
+Walka  E03 z  Ł31
+Hp czerwonego: -280
+Ł31 umiera z kretesem
 ----------------------
 
 Runda: 9
 --------------------
-Walka  R01 z  E00
-Hp niebieskiego: -250
-E00 umiera z kretesem
-----------------------
-Walka  R03 z  E06
-Hp niebieskiego: 950
-----------------------
-Walka  R08 z  J07
-Hp niebieskiego: 700
-----------------------
-Walka  Ł01 z  R07
+Walka  Ł00 z  R18
 Hp niebieskiego: -20
-R07 umiera z kretesem
+R18 umiera z kretesem
 ----------------------
-Walka  J00 z Bramą Niebieską
-Hp Bramy Niebieskiej: 2520
+Walka  Ł05 z  E03
+Hp niebieskiego: -50
+E03 umiera z kretesem
 ----------------------
-Walka  E01 z  J08
-Hp niebieskiego: 780
-----------------------
-Walka  E03 z  J05
-Hp niebieskiego: -105
-J05 umiera z kretesem
-----------------------
-Walka  E05 z  Ł01
-Hp niebieskiego: 180
-----------------------
-Walka  E09 z  E04
-Hp niebieskiego: 1030
-----------------------
-Walka  Ł01 z  E05
-Hp czerwonego: 430
-----------------------
-Walka  Ł02 z  Ł01
-Hp czerwonego: -20
-Ł01 umiera z kretesem
-----------------------
-Walka  E03 z  E08
-Hp czerwonego: 1030
-----------------------
-Walka  E04 z  E09
-Hp czerwonego: 790
-----------------------
-Walka  E06 z  R03
-Hp czerwonego: -220
-R03 umiera z kretesem
+Walka  Ł07 z Bramą Niebieską
+Hp Bramy Niebieskiej: 2480
 ----------------------
 
 Runda: 10
 --------------------
-Walka  R08 z  J07
-Hp niebieskiego: 325
+Walka  Ł07 z Bramą Niebieską
+Hp Bramy Niebieskiej: 1960
 ----------------------
-Walka  J00 z Bramą Niebieską
-Hp Bramy Niebieskiej: 2040
+Walka  Ł12 z Bramą Niebieską
+Hp Bramy Niebieskiej: 1440
 ----------------------
-Walka  E01 z  J08
-Hp niebieskiego: 485
+Walka  Ł18 z Bramą Niebieską
+Hp Bramy Niebieskiej: 920
 ----------------------
-Walka  E05 z  Ł01
-Hp niebieskiego: -120
-Ł01 umiera z kretesem
-----------------------
-Walka  E08 z  E03
-Hp niebieskiego: 150
-----------------------
-Walka  E09 z  E04
-Hp niebieskiego: 790
-----------------------
-Walka  R02 z  R05
-Hp czerwonego: 600
-----------------------
-Walka  Ł08 z  R05
-Hp czerwonego: 100
-----------------------
-Walka  J01 z Bramą Czrewoną
-Hp Bramy Czerwonej: 2520
-----------------------
-Walka  E03 z  E08
-Hp czerwonego: 790
-----------------------
-Walka  E04 z  E09
-Hp czerwonego: 550
-----------------------
-Walka  E06 z  J06
-Hp czerwonego: 30
+Walka  Ł26 z Bramą Niebieską
+Hp Bramy Niebieskiej: 400
 ----------------------
 
 Runda: 11
 --------------------
-Walka  R05 z  R02
-Hp niebieskiego: 600
-----------------------
-Walka  R08 z  J07
-Hp niebieskiego: -50
-J07 umiera z kretesem
-----------------------
-Walka  Ł05 z Bramą Niebieską
-Hp Bramy Niebieskiej: 1520
-----------------------
-Walka  J00 z Bramą Niebieską
-Hp Bramy Niebieskiej: 1040
-----------------------
-Walka  J05 z Bramą Niebieską
-Hp Bramy Niebieskiej: 560
-----------------------
-Walka  J06 z  E06
-Hp niebieskiego: 550
-----------------------
-Walka  J07 z Bramą Niebieską
-Hp Bramy Niebieskiej: 80
-----------------------
-Walka  E01 z  J08
-Hp niebieskiego: 190
-----------------------
-Walka  E08 z  E03
-Hp niebieskiego: -90
-E03 umiera z kretesem
-----------------------
-Walka  E09 z  E04
-Hp niebieskiego: 550
-----------------------
-Walka  R02 z  R05
-Hp czerwonego: -280
-R05 umiera z kretesem
-----------------------
-Walka  J01 z Bramą Czrewoną
-Hp Bramy Czerwonej: 2040
-----------------------
-Walka  E04 z  E09
-Hp czerwonego: 310
-----------------------
-Walka  E06 z  J06
-Hp czerwonego: -265
-J06 umiera z kretesem
-----------------------
-
-Runda: 12
---------------------
-Walka  Ł05 z Bramą Niebieską
-Hp Bramy Niebieskiej: -440
+Walka  Ł07 z Bramą Niebieską
+Hp Bramy Niebieskiej: -120
 Brama Niebieska upada z kretesem
 
 
 --------------------------
 Strona czerwona wygrała!!!
 --------------------------
-Pozostali Czerwoni: 20
-Pozostali Niebiescy: 13
+Pozostali Czerwoni: 69
+Pozostali Niebiescy: 6
